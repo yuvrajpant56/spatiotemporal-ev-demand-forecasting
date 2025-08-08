@@ -4,6 +4,9 @@ This project predicts the energy consumption (`Energy (kWh)`) at electric vehicl
 
 ---
 
+## 🧱 Proposed LSTM Architecture
+![LSTM Architecture] (Porposed_LSTM_)Architecture.png)
+
 ## 📌 Project Overview
 
 - ✅ **Goal**: Predict the `Energy (kWh)` used during a charging session based on features like session duration, charging time, fee, and environmental savings.
