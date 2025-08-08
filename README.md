@@ -5,7 +5,7 @@ This project predicts the energy consumption (`Energy (kWh)`) at electric vehicl
 ---
 
 ## 🧱 Proposed LSTM Architecture
-![LSTM Architecture] (Proposed_LSTM_Architecture.png)
+![LSTM Architecture](Proposed_LSTM_Architecture.png)
 
 ## 📌 Project Overview
 
